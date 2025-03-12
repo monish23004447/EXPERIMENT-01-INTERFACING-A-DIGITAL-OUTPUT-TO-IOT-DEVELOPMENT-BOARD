@@ -104,8 +104,9 @@ int main(void)
 ```
 
 ## OUTPUT
-![Uploading iot ex 1 output.jpg…]()
-![iot ex1 b output](https://github.com/user-attachments/assets/f624e3de-ac2e-4901-a59b-64dd27a6c1b1)
+![iot ex 1 output](https://github.com/user-attachments/assets/6fb80b6f-d70b-4816-bde3-16245f6ac5d3)
+
+![iot ex1 b output](https://github.com/user-attachments/assets/47c635a5-cd1a-4947-a61f-1a0cd1e97fd8)
 
 ## RESULT
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
